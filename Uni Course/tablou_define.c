@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define N 100
+#define N 100 //nu ocupa loc in memorie
 
 void main(void)
 {

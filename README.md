@@ -1,1 +1,1 @@
-C exercises from my University courses and Udemy bootcamp
+C exercises from my University courses and Udemy C Programming bootcamp
